@@ -1,0 +1,95 @@
+{
+  "clothing": [
+    {
+      "id": 1,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/Womens-3-Piece-Tank-Top-Shrugs-Legging-Apparel-2-370x370.jpg",
+      "name": "“Cool “Women’s 3-Piece Tank-Top...",
+      "price": "999.0"
+    },
+    {
+      "id": 2,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/12-Piece-Lot-Cotton-Tank-Top-370x370.jpg",
+      "name": "12 Piece Lot Cotton Tank Top",
+      "price": "1799.00"
+    },
+    {
+      "id": 3,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/Classic-White-Tank-Top-And-Midi-Brief-Set-370x370.jpg",
+      "name": "Classic White Tank Top And Midi Brief Set",
+      "price": "299.00"
+    },
+    {
+      "id": 4,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/DG-White-Tank-Top-370x370.jpg",
+      "name": "D&G White Tank Top",
+      "price": "509.00"
+    },
+    {
+      "id": 5,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/Wholesale-lot-of-3-Workout-Outfits-370x370.jpg",
+      "name": "Wholesale lot of 3 Workout Outfits",
+      "price": "1199.00"
+    },
+    {
+      "id": 6,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-06-21-at-3.01.01-PM1-370x370.jpeg",
+      "name": "Clothini Rajiya Launching new styles gown...",
+      "price": "1499.00"
+    },
+    {
+      "id": 7,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-05-04-at-11.24.31-AM-370x370.jpeg",
+      "name": "Western gown in black",
+      "price": "989.00"
+    },
+    {
+      "id": 8,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-05-04-at-11.24.25-AM-1-370x370.jpeg",
+      "name": "Western gown in grey",
+      "price": "989.00"
+    },
+    {
+      "id": 9,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-05-04-at-11.24.35-AM-370x370.jpeg",
+      "name": "Western gown in peach",
+      "price": "989.00"
+    },
+    {
+      "id": 10,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-05-04-at-11.24.31-AM-1-370x370.jpeg",
+      "name": "Western gown in pink",
+      "price": "989.00"
+    },
+    {
+      "id": 11,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/072-370x370.jpg",
+      "name": "mint green anarkali set",
+      "price": "5599.00"
+    },
+    {
+      "id": 12,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/103-370x370.jpg",
+      "name": "aquamarine cotton suit set",
+      "price": "2899.00"
+    },
+    {
+      "id": 13,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/416-370x370.jpg",
+      "name": "black crown sharara set",
+      "price": "3599.00"
+    },
+    {
+      "id": 14,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/155-370x370.jpg",
+      "name": "bumblee cotton anarkli set",
+      "price": "4599.00"
+    },
+    {
+      "id": 15,
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/French-Daina-Slik-Satin-Split-Side-Night-Slip-1-370x370.jpg",
+      "name": "French Daina Silk Satin Split Side Night...",
+      "price": "999.00"
+    }
+  ],
+  "Cart": []
+}
