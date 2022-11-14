@@ -15,7 +15,7 @@ const Navbar = () => {
     
     <Flex m="auto"justify="space-between"w="85%" p="7px" >
         <Box>
-            < Image src="https://outstripinfotech.com/wpword/razi/wp-content/uploads/2022/08/200x80black.png" w="160px"/>
+            <Link to="/">< Image src="https://outstripinfotech.com/wpword/razi/wp-content/uploads/2022/08/200x80black.png" w="160px"/></Link>
         </Box>
         <Box display={"flex"}justifyContent="space-between" w="30%" alignItems="center">
             <Link style={{color:"black" ,textDecoration:"none"}} to="/">Home</Link>

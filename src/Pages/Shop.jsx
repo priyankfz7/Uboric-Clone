@@ -14,6 +14,11 @@ const Shop = () => {
         setPop({name:name,price:price,image:image})
         onOpen();
     }
+    const changeProducts=(root)=>{
+        fetch(`http://localhost:5000/${root}`).then((res)=>res.json()).then((res)=>setProducts(res))
+
+
+    }
     const handleAddCart=()=>{
         setLoading(true)
         setTimeout(()=>{
@@ -38,7 +43,8 @@ const Shop = () => {
         <div style={{width:"25%",height:"500px"}}>
             <div style={{display:"flex",justifyContent:"space-between",padding:"5px",borderBottom:"1px solid grey",marginBottom:"10px"}}>
                 <div>Product Category</div><div> <SlArrowDown/></div></div>
-                <div style={{padding:"5px"}} >Clothing (242)</div>
+                <div onClick={()=>changeProducts("clothing")}style={{padding:"5px",cursor:"pointer"}} >Clothing (242)</div>
+                <div onClick={()=>changeProducts("bags")} style={{padding:"5px",cursor:"pointer"}} >Bags (16)</div>
         <div style={{padding:"5px"}}>Bathroom Accessories (8)</div>
         <div style={{padding:"5px"}}>Electric Appliances (130)</div>
         <div style={{padding:"5px"}}>Grocery (4)</div>

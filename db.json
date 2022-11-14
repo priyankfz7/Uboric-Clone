@@ -91,5 +91,110 @@
       "price": "999.00"
     }
   ],
-  "Cart": []
+  "Cart": [
+    {
+      "name": "Wholesale lot of 3 Workout Outfits",
+      "price": "1199.00",
+      "image": "https://www.uboric.com/wp-content/uploads/2022/08/Wholesale-lot-of-3-Workout-Outfits-370x370.jpg",
+      "id": 2
+    }
+  ],
+  "bags": [
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/cettire/4c5e16c3/isabel-marant-Black-Yenky-Tote-Bag.jpeg",
+      "name": "Yenky Tote Bag - Black",
+      "price": 149,
+      "id": 1
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/804bc1d5/gucci-Beige-Schultertasche-Ophidia-GG-Mini.jpeg",
+      "name": "Ophidia GG Mini Shoulder Bag - Natural",
+      "price": 665,
+      "id": 2
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/396f8957/cecilie-bahnsen-black-Cabas-Fryd.jpeg",
+      "name": "Fryd Ruffle-trimmed Tote - Black",
+      "price": 563,
+      "id": 3
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/f2344880/saint-laurent-neutrals-Panier-Medium-Raffia-Tote.jpeg",
+      "name": "Panier Medium Raffia Tote - Multicolor",
+      "price": 563,
+      "id": 4
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/1c60a028/loewe--.jpeg",
+      "name": "Cubi Anagram Jacquard And Leather Shoulder Bag - Natural",
+      "price": 909,
+      "id": 5
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/7b428119/staud-neutrals-Sac-porte-epaule-en-cuir-Moon-small.jpeg",
+      "name": "Moon Small Leather Shoulder Bag - Natural",
+      "price": 278,
+      "id": 6
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/04160ffb/wandler--.jpeg",
+      "name": "Penelope Small Leather Shoulder Bag - Black",
+      "price": 610,
+      "id": 7
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/net-a-porter/9e999f25/proenza-schouler-white-label-yellow-Watts-Kameratasche-Aus-Leder.jpeg",
+      "name": "Watts Leather Camera Bag - Yellow",
+      "price": 282,
+      "id": 8
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/47b3f540/saint-laurent-neutrals-Rive-Gauche-Embroidered-Crochet-Tote.jpeg",
+      "name": "Rive Gauche Raffia-effect Tote Bag - Multicolor",
+      "price": 1118,
+      "id": 9
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/68dfe2d2/staud--.jpeg",
+      "name": "Riviera Moon Panelled-leather Shoulder Bag - Blue",
+      "price": 359,
+      "id": 10
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/bdcf3d2d/jw-anderson-green-blue-.jpeg",
+      "name": "Bumper Moon Bi-colour Leather Shoulder Bag - Green",
+      "price": 482,
+      "id": 11
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/1ebb0106/bottega-veneta--.jpeg",
+      "name": "Arco Mini Intrecciato-leather Tote Bag - Natural",
+      "price": 1861,
+      "id": 12
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/79f5796d/anya-hindmarch--.jpeg",
+      "name": "ANYA HINDMARCH",
+      "price": 1064,
+      "id": 13
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/c52e9396/staud-multicoloured-Mercato-Raffia-effect-Tote.jpeg",
+      "name": "Mercato Raffia-effect Tote - Multicolor",
+      "price": 267,
+      "id": 14
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/revolveclothing/5e5f44e2/anine-bing-Tan-Saffron-Bag.jpeg",
+      "name": "Saffron Bag - Brown",
+      "price": 238,
+      "id": 15
+    },
+    {
+      "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/91598dc0/jw-anderson--Sac-a-main-en-cuir-tisse-Knot.jpeg",
+      "name": "Knot Woven Leather Handbag - Natural",
+      "price": 588,
+      "id": 16
+    }
+  ]
 }
