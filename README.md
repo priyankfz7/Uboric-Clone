@@ -18,10 +18,10 @@
 
 
 
-## Tech Stack We Have Used
--HTML
--CSS 
--Java Script
+## Tech Stack I Have Used
+  -HTML
+  -CSS 
+  -Java Script
 
 
 
